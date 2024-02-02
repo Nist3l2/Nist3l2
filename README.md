@@ -1,5 +1,5 @@
 <h1 align="center">Ciao 👋! I'm Nicola</h1>
-<h3 align="center">Digital & Innovation Project Manager</h3>
+<h3 align="center">Digital & Innovation Manager</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nist3l2&label=Profile%20views&color=0e75b6&style=flat" alt="Nist3l2" /> </p>
 
 <h3 align="center">Languages and Tools</h3>
